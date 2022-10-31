@@ -8,3 +8,4 @@ class BlogConfig(AppConfig):
 
     def ready(self): #models de yazsaydık gerek kalmayacaktı burda yazmaya 
         import blog.signals
+# dd
